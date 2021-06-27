@@ -1,7 +1,12 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=shreyanshxyz&show_icons=true&theme=dracula">
 
-#### I'm Shreyansh Bhadoria, a Computer Science sophomore at Institute of Technology & Management, Gwalior.
+### Hi there I'm Shreyansh! :lemon:
 
-<a href="https://www.github.com/shreyanshxyz">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyanshxyz&show_icons=true&theme=dracula" />
-</a>
+I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
+
+- 🔭 I’m currently a CS student at Institute of Technology & Management, Gwalior  .
+- 📚 I’m currently working on Full-Stack Web Development using ReactJS, NodeJS, ExpressJS and MongoDB.
+- 👯 I’m looking for a Software Development Internship. 
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) | [Gmail](mailto:shreyanshbhadoria@gmail.com) | [Instagram](https://www.instagram.com/shreyanshxyz/)
+
+⭐️ From [shreyanshxyz](https://github.com/shreyanshxyz)
