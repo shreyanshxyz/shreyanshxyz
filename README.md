@@ -10,3 +10,5 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/hazemessamsaleh) | [Gmail](mailto:shreyanshbhadoria@gmail.com) | [Instagram](https://www.instagram.com/shreyanshxyz/)
 
 ⭐️ From [shreyanshxyz](https://github.com/shreyanshxyz)
+
+  [![Shreyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shreyanshxyz&theme=xcode)](https://git.io/shreyanshxyz)
