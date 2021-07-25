@@ -11,4 +11,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ⭐️ From [shreyanshxyz](https://github.com/shreyanshxyz)
 
-[![Shreyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shreyanshxyz&theme=xcode)](https://git.io/shreyanshxyz)
+<!-- [![Shreyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shreyanshxyz&theme=xcode)](https://git.io/shreyanshxyz) -->
