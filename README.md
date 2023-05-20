@@ -6,7 +6,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 - 🔭 I’m currently a CS student at Institute of Technology & Management, Gwalior  .
 - 📚 I’m currently working on Full-Stack Web Development using ReactJS, NodeJS, ExpressJS and MongoDB.
-- 👯 I’m looking for a Software Development Internship. 
+- 👯 I’m looking for full time roles (Frontend/Backend/Fullstack/SWE). 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shreyanshxyz) | [Gmail](mailto:shreyanshbhadoria@gmail.com) | [Instagram](https://www.instagram.com/shreyanshxyz/)
 
 ⭐️ From [shreyanshxyz](https://github.com/shreyanshxyz)
