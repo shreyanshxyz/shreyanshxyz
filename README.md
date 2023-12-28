@@ -1,4 +1,5 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=shreyanshxyz&show_icons=true&theme=dracula">
+| <a href="https://github.com/shreyanshxyz/github-readme-stats"><img align="top-right" src="https://github-readme-stats.vercel.app/api?username=shreyanshxyz&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Shreyansh's github stats" /></a> | <a href="https://github.com/shreyanshxyz/github-readme-stats"><img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshxyz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### Hi there I'm Shreyansh! :lemon:
 
@@ -9,6 +10,5 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for full time roles (Frontend/Backend/Fullstack/SWE). 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shreyanshxyz) | [Gmail](mailto:shreyanshbhadoria@gmail.com) | [Instagram](https://www.instagram.com/shreyanshxyz/)
 
-⭐️ From [shreyanshxyz](https://github.com/shreyanshxyz)
 
 <!-- [![Shreyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shreyanshxyz&theme=xcode)](https://git.io/shreyanshxyz) -->
