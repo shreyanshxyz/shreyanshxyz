@@ -2,7 +2,7 @@
 | ------------- | ------------- |
 
 ### Hi there I'm Shreyansh! :lemon:
-
+ 
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m recent CS grad from Institute of Technology & Management, Gwalior  .
@@ -19,4 +19,3 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshxyz&theme=default&bg_color=ffffff&color=000000&line=CF9FFF&hide_border=false" width="100%"/>
 
-<!-- [![Shreyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shreyanshxyz&theme=xcode)](https://git.io/shreyanshxyz) -->
