@@ -10,5 +10,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 👯 I’m looking for full time roles (Frontend/Backend/Fullstack/SWE). 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shreyanshxyz) | [Gmail](mailto:shreyanshbhadoria@gmail.com) | [Instagram](https://www.instagram.com/shreyanshxyz/)
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshxyz&theme=default&bg_color=ffffff&color=000000&line=CF9FFF&hide_border=false" width="100%"/>
 
 <!-- [![Shreyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shreyanshxyz&theme=xcode)](https://git.io/shreyanshxyz) -->
