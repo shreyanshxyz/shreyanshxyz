@@ -17,5 +17,3 @@ I'm a computer science student who is passionate about writing code, solving pro
 [![Gmail Badge](https://img.shields.io/badge/-shreyanshbhadoria-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:shreyanshbhadoria@gmail.com)](mailto:shreyanshbhadoria@gmail.com)
 
 
-<[remove this with brackets for the graph]img src="https://github-readme-activity-graph.vercel.app/graph?username=shreyanshxyz&theme=default&bg_color=ffffff&color=000000&line=CF9FFF&hide_border=false" width="100%"/>
-
