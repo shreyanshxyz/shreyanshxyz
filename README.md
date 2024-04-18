@@ -18,5 +18,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 
-[![Shreyansh's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=shreyanshxyz&theme=xcode)](https://git.io/shreyanshxyz)
-
+[![Shreyansh's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=shreyanshxyz&theme=xcode)](https://git.io/shreyanshxyz)
