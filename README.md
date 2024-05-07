@@ -1,4 +1,4 @@
-| <a href="https://github.com/shreyanshxyz/github-readme-stats"><img align="top-right" src="https://github-readme-stats.vercel.app/api?username=shreyanshxyz&show_icons=true&rank_icon=percentile&hide_border=true" alt="Shreyansh's github stats" /></a> | <a href="https://github.com/shreyanshxyz/github-readme-stats"><img align="top-right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshxyz&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/shreyanshxyz/github-readme-stats"><img align="top-right" src="https://github-readme-stats-drab-nine-75.vercel.app/api?username=shreyanshxyz&count_private=true&show_icons=true&rank_icon=percentile&hide_border=true" alt="Shreyansh's github stats" /></a> | <a href="https://github.com/shreyanshxyz/github-readme-stats"><img align="top-right" src="https://github-readme-stats-drab-nine-75.vercel.app/api/top-langs/?username=shreyanshxyz&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 ### Hi there, I'm Shreyansh! :lemon:
