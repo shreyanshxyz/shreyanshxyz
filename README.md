@@ -6,8 +6,8 @@
 I'm a computer science student who is passionate about writing code, solving problems, automating stuff, and building software.
 
 - 🔭 I’m recent CS grad from Institute of Technology & Management, Gwalior  .
-- 📚 I’m currently working on Full-Stack Web Development using ReactJS, NodeJS, ExpressJS and MongoDB. I also like to dabble with Next.js, Laravel and other technologies in my free time. I'm also an avid enthusiast of taking part in algorithmic competitions.
-- 👯 I’m looking for full time roles (Frontend/Backend/Fullstack/SWE).
+- 📚 I have frequently worked on Full-Stack Web Development using ReactJS, NodeJS, ExpressJS and MongoDB. I also like to dabble with Next.js, Laravel and other technologies in my free time. I'm also an avid enthusiast of taking part in algorithmic competitions.
+- 💼 Currently I'm working as a Web3 Frontend Engineer at Laika AI.
 
 #### How to reach me?
 [![Linkedin Badge](https://img.shields.io/badge/-shreyanshxyz-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shreyanshxyz/)](https://www.linkedin.com/in/shreyanshxyz/)
